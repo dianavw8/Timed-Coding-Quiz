@@ -1,4 +1,4 @@
-// creating an array and passing the number, questions, options, and answers
+// array-passing the number, questions, options, and answers.
 let questions = [
     {
     numb: 1,
@@ -132,7 +132,7 @@ quit_quiz.onclick = ()=>{
     window.location.reload(); //reload the current window
 }
 
-// if Next Que button clicked
+// if Next button clicked
 next_btn.onclick = ()=>{
     if(que_count < questions.length - 1){ //if question count is less than total question length
         que_count++; //increment the que_count value

@@ -1,13 +1,13 @@
 # Timed-Coding-Quiz
 
 ## Description
-The Password Generator application enables users to generate random passwords based on criteria that they’ve selected. 
+The Timed Coding Quiz is a fun web application game that helps users test their knowledge on coding. This timed game includes five questions and a score tracker at the end.
 
 ## Purpose
-The Password Generator application runs in a browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
+The Timed Coding Quiz application runs in a browser and features a fun quizzing game that allows the user to apply their knowledge of coding. The game provides five questions, which are timed and will deduct three seconds over all time if answered incorrectly. This engages the user to try their best and also gives them a chance to record their scores.
 
 ## Installation
-To install my project use the following link: https://github.com/dianavw8/Password-Generator and follow these simple directions:
+To install my project use the following link: https://github.com/dianavw8/Timed-Coding-Quiz and follow these simple directions:
 
 Above the list of files, click on the "Code" button.
 
@@ -24,13 +24,13 @@ Press Enter to create your local clone.
 For more help and information achiving this, check out the following website: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 ## Usage
-The refactored website can be found at: https://dianavw8.github.io/Password-Generator/
+The refactored website can be found at: https://dianavw8.github.io/Timed-Coding-Quiz/
 
 The following image demonstrates the web application's appearance and functionality:
-![The Password Generator webpage includes a card with Generate Password button.](./Assets/PasswordGenImg.jpg)
+![The Password Generator webpage includes a card with Generate Password button.](./Assets/images/codingquizgame.jpg)
 
 ## Lessons Learned
-The Password Generator project has shown me the importance of pseudo coding and planning to help the flow of the coding process. This code had a lot of details necessary to the function of the generator that could have been missed if not for proper planning.
+The Timed Coding Quiz was a challenging web application, because there were so many details to the game that needed to work perfectly together in order for the web application to function properly. Working on HTML, CSS and JS from scratch was a great challenge that required many hours, tweaks and online searching until I felt the game was complete. 
 
 ## Credits and Inspiration
 https://github.com/dianavw8
