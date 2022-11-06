@@ -13,6 +13,29 @@ body{
     width: 100%;
     margin-bottom: 3px;
     background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.background-floating{
+    height: 1000px;
+    background-size: cover;
+    background-image: url("../images/CodingGame2022-11-04 113138.jpg");
+    animation-name: background-floating;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: -100px;
+    background-size: 2400px;
+}
+ 
+@keyframes background-floating {
+    0% { transform: translate(0,  0px); }
+    17% { transform: translate(50px,  15px); }
+    50%  { transform: translate(-50px, 15px); }
+    80% { transform: translate(50px,  -15px); }
+    100%   { transform: translate(0, 0px); }   
 }
 
 ::selection{
@@ -29,6 +52,7 @@ body{
     width: 100%;
     text-align: center;
     color: chartreuse;
+    -webkit-text-stroke: 1px black;
 }
 
 .start_btn,
